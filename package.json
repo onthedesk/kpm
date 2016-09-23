@@ -1,0 +1,23 @@
+{
+  "name": "kpm",
+  "version": "0.0.1",
+  "description": "A pacakge manager for personal knowledge",
+  "main": "lib",
+  "bin": "bin/kpm",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onthedesk/kpm.git"
+  },
+  "keywords": [
+    "knowledge"
+  ],
+  "author": "Alfred",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/onthedesk/kpm/issues"
+  },
+  "homepage": "https://github.com/onthedesk/kpm#readme"
+}
